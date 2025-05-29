@@ -5,24 +5,28 @@
 	<key>comment</key>
 	<string>http://chriskempson.com</string>
 	<key>name</key>
-	<string>Tomorrow Night - Blue</string>
+	<string>Tomorrow Night - Bright</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#002451</string>
+				<string>#000000</string>
 				<key>caret</key>
-				<string>#FFFFFF</string>
+				<string>#9F9F9F</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#DEDEDE</string>
 				<key>invisibles</key>
-				<string>#404F7D</string>
+				<string>#343434</string>
 				<key>lineHighlight</key>
-				<string>#00346E</string>
+				<string>#2A2A2A</string>
 				<key>selection</key>
-				<string>#003F8E</string>
+				<string>#424242</string>
+				<key>gutter</key>
+				<string>#191919</string>
+				<key>gutterForeground</key>
+				<string>#404040</string>
 			</dict>
 		</dict>
 		<dict>
@@ -33,20 +37,20 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7285B7</string>
+				<string>#969896</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Foreground, Operator</string>
+			<string>Foreground</string>
 			<key>scope</key>
-			<string>keyword.operator.class, keyword.operator, constant.other, source.php.embedded.line</string>
+			<string>keyword.operator.class, constant.other, source.php.embedded.line</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#EEEEEE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9DA4</string>
+				<string>#D54E53</string>
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +74,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFC58F</string>
+				<string>#E78C45</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,7 +87,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFEEAD</string>
+				<string>#E7C547</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,7 +100,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D1F1A9</string>
+				<string>#B9CA4A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,7 +111,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#99FFFF</string>
+				<string>#70C0B1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -120,7 +124,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BBDAFF</string>
+				<string>#7AA6DA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +137,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#EBBBFF</string>
+				<string>#C397D8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -144,11 +148,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F99DA5</string>
+				<string>#DF5F5F</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#CED2CF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -159,9 +163,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#BBDAFE</string>
+				<string>#82A3BF</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#CED2CF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -172,11 +176,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EBBBFF</string>
+				<string>#B798BF</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#CED2CF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -240,7 +244,7 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>3F4BB232-3C3A-4396-99C0-06A9573715E9</string>
+	<string>33D8C715-AD3A-455B-8DF2-56F708909FFE</string>
   <key>colorSpaceName</key>
   <string>sRGB</string>
 </dict>
